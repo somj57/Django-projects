@@ -1,6 +1,6 @@
 # Django-projects🚀
 <hr>
-``mkdir WebDevelopement
+```mkdir WebDevelopement
 cd WebDevelopement/
 python3 -m venv venv
 source venv/bin/activate
