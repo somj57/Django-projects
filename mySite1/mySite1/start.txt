@@ -22,6 +22,6 @@ To Create admin/superuser in main file ie inside mySite1 where manage.py is thei
 
 and second user added by gui is 
 somya
-59865412357@Som
+***************
 
  # manage.py makemigeration
