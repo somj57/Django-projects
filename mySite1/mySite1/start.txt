@@ -1,0 +1,27 @@
+mkdir WebDevelopement
+cd WebDevelopement/
+python3 -m venv venv
+source venv/bin/activate
+pip install django
+django-admin startproject mySite1
+ Now the folder named mySite1 will be created and this will be our base folder to work with 
+
+python manage.py runserver
+
+To create new apps :
+    python manage.py startapp polls
+
+If you create any app inside of mySite1 then you need to register it inside the settings.py
+
+To Create admin/superuser in main file ie inside mySite1 where manage.py is their and type
+ -->python manage.py migrate
+ -->python manage.py createsuperuser
+ -->somj57
+ -->som.jaiswal.sj@gmail.com
+ -->11111111
+
+and second user added by gui is 
+somya
+59865412357@Som
+
+ # manage.py makemigeration
