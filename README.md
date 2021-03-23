@@ -1,4 +1,4 @@
-# Django-projects🚀
+# Django-projects
 <hr>
 
 ```mkdir WebDevelopement```
